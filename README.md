@@ -19,7 +19,7 @@ Enhance the existing **Book Library** application by adding functionality to nav
   - **Author** (Text Input)
   - **Description** (Textarea)
   - **Cover Image URL** (URL Input)
-- **Buttons:**
+  - **Buttons:**
 
   - **Submit:** To hypothetically add the book (no actual functionality required).
 

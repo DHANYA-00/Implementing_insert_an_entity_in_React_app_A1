@@ -17,3 +17,18 @@ html,
   padding: 0;
   height: 100%;
 }
+
+.submit-button:hover{
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+}
+
+body{
+  border: black 30px;
+  background-color: rgb(99, 17, 99);
+}
+
+.form{
+  transform: translate(260%,130%);
+  border-radius:black 10%;
+}
