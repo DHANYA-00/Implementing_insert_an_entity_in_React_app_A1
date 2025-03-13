@@ -9,7 +9,7 @@ function AddBook() {
     const nav=useNavigate();
 
     const handleSubmit=()=>{
-        nav('/bookCard')
+        nav('/')
     }
 
   return (
